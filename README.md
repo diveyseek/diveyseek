@@ -17,7 +17,7 @@ Senior Data Engineer working at SEEK.
 # GitHub Stats
 
 <a href="https://github.com/diveyseek/diveyseek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hklo&orgs=seekasia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveyseek&orgs=seek-jobs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--
 <a href="https://github.com/diveyseek/diveyseek">
