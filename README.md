@@ -16,11 +16,14 @@ Senior Data Engineer working at SEEK.
 <br>
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
+<!--
 # GitHub Stats
 
 <a href="https://github.com/diveyseek/diveyseek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveyseek&orgs=SEEK-Jobs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+-->
 
 <!--
 <a href="https://github.com/diveyseek/diveyseek">
