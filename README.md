@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Senior Data Engineer working at SEEK.
+Staff Data Engineer working at SEEK.
 
 # Technologies & Tools 🔧 
 
